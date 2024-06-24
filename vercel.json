@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://chat.sorapi.dev/$1"}
+      {"src": "/(.*)","dest": "https://chat-in.sorapi.dev/$1"}
     ]
 }
